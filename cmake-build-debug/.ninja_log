@@ -1,5 +1,5 @@
 # ninja log v6
 456	557	1730525151999447958	cpp_playground	536a4d16178a8549
 2	456	1730525151544871124	CMakeFiles/cpp_playground.dir/knou/exam1.cpp.o	91df535c98363ade
-3	66	1730525420513804249	build.ninja	7c872bdc99ef93be
+3	66	1730525806824882208	build.ninja	7c872bdc99ef93be
 2	142	1730525151545321374	CMakeFiles/cpp_playground.dir/knou/exam2.cpp.o	dacc3e7be9e4faa3

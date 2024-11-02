@@ -63,6 +63,13 @@ build CMakeFiles/cpp_playground.dir/knou/exam2.cpp.o: CXX_COMPILER__cpp_playgrou
   OBJECT_DIR = CMakeFiles/cpp_playground.dir
   OBJECT_FILE_DIR = CMakeFiles/cpp_playground.dir/knou
 
+build CMakeFiles/cpp_playground.dir/knou/exam3.cpp.o: CXX_COMPILER__cpp_playground_unscanned_Debug /Users/young/study/cpp-playground/knou/exam3.cpp || cmake_object_order_depends_target_cpp_playground
+  DEP_FILE = CMakeFiles/cpp_playground.dir/knou/exam3.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/young/study/cpp-playground/knou
+  OBJECT_DIR = CMakeFiles/cpp_playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp_playground.dir/knou
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cpp_playground
@@ -71,7 +78,7 @@ build CMakeFiles/cpp_playground.dir/knou/exam2.cpp.o: CXX_COMPILER__cpp_playgrou
 #############################################
 # Link the executable cpp_playground
 
-build cpp_playground: CXX_EXECUTABLE_LINKER__cpp_playground_Debug CMakeFiles/cpp_playground.dir/knou/exam1.cpp.o CMakeFiles/cpp_playground.dir/knou/exam2.cpp.o
+build cpp_playground: CXX_EXECUTABLE_LINKER__cpp_playground_Debug CMakeFiles/cpp_playground.dir/knou/exam1.cpp.o CMakeFiles/cpp_playground.dir/knou/exam2.cpp.o CMakeFiles/cpp_playground.dir/knou/exam3.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/cpp_playground.dir
   POST_BUILD = :

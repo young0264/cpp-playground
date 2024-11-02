@@ -8,4 +8,5 @@ include_directories(knou)
 add_executable(cpp_playground
     knou/exam1.cpp
         knou/exam2.cpp
+        knou/exam3.cpp
 )
