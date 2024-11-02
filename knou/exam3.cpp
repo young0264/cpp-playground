@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
   int  a = 10, b = 100;
-  int  *ptr = &a ; 	 // 포인터 ptr을 선언한 후에 a의 주소를 넣는다.
+  int  *ptr = &a; 	 // 포인터 ptr을 선언한 후에 a의 주소를 넣는다.
 
   cout << "ptr이 가리키는 곳의 값 : " << *ptr << endl;
   *ptr = 20;   // ptr이 가리키는 곳에 20을 저장
