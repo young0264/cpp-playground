@@ -67,7 +67,8 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5
 			]
 		}
 	],
@@ -104,14 +105,15 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5
 			]
 		},
 		{
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				5
+				6
 			]
 		}
 	],
@@ -149,7 +151,13 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "knou/exam5.h",
+			"compileGroupIndex" : 0,
+			"path" : "knou/exam6.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "knou/exam6.h",
 			"sourceGroupIndex" : 1
 		}
 	],

@@ -11,4 +11,5 @@ add_executable(cpp_playground
         knou/exam3.cpp
         knou/exam4.cpp
         knou/exam5.cpp
+        knou/exam6.cpp
 )
