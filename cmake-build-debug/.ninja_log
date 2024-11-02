@@ -1,5 +1,12 @@
 # ninja log v6
-456	557	1730525151999447958	cpp_playground	536a4d16178a8549
-2	456	1730525151544871124	CMakeFiles/cpp_playground.dir/knou/exam1.cpp.o	91df535c98363ade
-3	66	1730528045662404083	build.ninja	7c872bdc99ef93be
 2	142	1730525151545321374	CMakeFiles/cpp_playground.dir/knou/exam2.cpp.o	dacc3e7be9e4faa3
+3	66	1730528454176704208	build.ninja	7c872bdc99ef93be
+2	456	1730525151544871124	CMakeFiles/cpp_playground.dir/knou/exam1.cpp.o	91df535c98363ade
+456	557	1730525151999447958	cpp_playground	536a4d16178a8549
+3	65	1730528454176704208	build.ninja	7c872bdc99ef93be
+9	977	1730528454195406499	CMakeFiles/cpp_playground.dir/knou/exam3.cpp.o	398a0cb941b18210
+10	979	1730528454195966124	CMakeFiles/cpp_playground.dir/knou/exam5.cpp.o	d6c8df5120288ebb
+10	980	1730528454196438333	CMakeFiles/cpp_playground.dir/knou/exam6.cpp.o	d58e29d7f3367a14
+11	989	1730528454196874874	CMakeFiles/cpp_playground.dir/knou/exam7.cpp.o	4cc2970e29d60244
+9	993	1730528454195660208	CMakeFiles/cpp_playground.dir/knou/exam4.cpp.o	5c836ede54626105
+9	1020	1730528454195045249	CMakeFiles/cpp_playground.dir/knou/exam2.cpp.o	dacc3e7be9e4faa3
